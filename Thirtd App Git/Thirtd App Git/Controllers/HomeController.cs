@@ -20,7 +20,7 @@ namespace Thirtd_App_Git.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View();//Comment
         }
 
         public IActionResult Privacy()
